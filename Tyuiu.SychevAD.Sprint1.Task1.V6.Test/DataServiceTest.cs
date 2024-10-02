@@ -1,6 +1,6 @@
-using Tyuiu.TiasinIA.Sprint1.Task1.V25.Lib;
+using Tyuiu.SychevAD.Sprint1.Task1.V6.Lib;
 
-namespace Tyuiu.TiasinIA.Sprint1.Task1.V25.Test
+namespace Tyuiu.SychevAD.Sprint1.Task1.V6.Test
 {
     [TestClass]
     public class DataServiceTest
