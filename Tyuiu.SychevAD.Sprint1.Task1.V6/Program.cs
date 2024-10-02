@@ -8,7 +8,7 @@ namespace Tyuiu.TiasinIA.Sprint1.Task1.V25
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #1 | Выполнил: Тясин И.А. | АСОиУБ-24-1";
+            Console.Title = "Спринт #1 | Выполнил: Сычёв А.Д. | АСОиУБ-24-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* спринт #1                                                               *");
