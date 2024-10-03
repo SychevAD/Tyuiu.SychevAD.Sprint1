@@ -11,7 +11,7 @@ namespace Tyuiu.SychevAD.Sprint1.Task2.V20.Test
             DataService ds = new DataService();
             int x = 2;
             int y = 1;
-            var res = ds.Sqr(x, y);
+            var res = ds.CalculateSquaresSumm(x, y);
             Assert.AreEqual(5, res);
         }
     }
